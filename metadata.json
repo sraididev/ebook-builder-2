@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ebook Renderer",
+  "description": "A React application that renders JSON ebook data into a styled, print-ready HTML format.",
+  "requestFramePermissions": []
+}
